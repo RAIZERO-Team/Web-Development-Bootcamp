@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style3.css">
+</head>
+<body>
+    <div class="container">
+        <div class="left">
+            <form class="form">
+                <div class="logo">
+                    <img src="E:\RAIZERO\Web-Development-Bootcamp\tasks\assets\logo\app_logo.png" alt="*"  style="width: 50px; height: 50px;">
+                </div>
+                    <h1 class="oops">
+                        Oooops!
+                    </h1>
+                    <h3 class="pragraph">
+                        We can't seem to find the bage <br> you are looking for 
+                    </h3>
+                    <div class="button">
+                        <button type="submit" class="btn">Go Home</button>
+                    </div>
+            </form>
+        </div>
+        <div class="right">
+            <div class="navbar">
+                <nav>
+                    <ul>
+                        <li><h3>Home</h3></li>
+                        <li><h3>About</h3></li>
+                        <li><h3>Contact</h3></li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="photo">
+                <img src="E:\RAIZERO\Web-Development-Bootcamp\tasks\assets\images\Page_not_found.png" alt="photo 404" style="width: 550px; height: 500px;">
+            </div>
+        </div>
+        <div class="footer">
+            <footer>
+                <p>&copy; 2024 Learnfy - All Rights Reserved.</p>
+            </footer>
+        </div>
+    </div>
+    
+</body>
+</html>
