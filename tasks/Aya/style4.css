@@ -1,0 +1,97 @@
+.container{
+    display: flex;
+}
+nav {
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-right: 50px;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+    margin-right: 50px;
+}
+.form1{
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 550px;
+    margin-left: 40px;
+}
+.logo{
+    margin-left: 30px;
+}
+.love{
+    margin-top: 80px;
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+.name{
+    margin-left: 20px;
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#username{
+    margin-top: 10px;
+    width: 240px;
+    height: 30px;
+    background-color: rgb(216, 209, 209);
+    border-style: none;
+}
+.email{
+    margin-left: 20px;
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#email{
+    margin-top: 10px;
+    width: 240px;
+    height: 30px;
+    background-color: rgb(216, 209, 209);
+    border-style: none;
+}
+.message{
+    margin-left: 20px;
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#message{
+    margin-top: 10px;
+    width: 240px;
+    height: 90px;
+    background-color: rgb(216, 209, 209);
+    border-style: none;
+}
+.footer{
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+    position: fixed; 
+    bottom: 0;
+    width: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+.imgbtn{
+    margin-top: 80px;
+    margin-left: 400px;
+}
+.imgbttn{
+    padding: 12px 80px;
+    border-radius:15px ;
+    -webkit-border-radius:15px ;
+    -moz-border-radius:15px ;
+    -ms-border-radius:15px ;
+    -o-border-radius:15px ;
+    color: white;
+    font-weight: bold;
+    background-color: black;
+}
