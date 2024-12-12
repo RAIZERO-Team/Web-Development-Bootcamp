@@ -57,7 +57,7 @@ label {
   margin-bottom: 1.5em;
 }
 
-input, textarea {
+input {
   width: 90%;
   height: 2.5em;
   display: block;
@@ -65,7 +65,14 @@ input, textarea {
   border: 2px solid rgba(92, 95, 97, 0.452);
   transition: border-color 0.3s ease, background-color 0.3s ease;
 }
-
+textarea {
+  width: 90%;
+  height: 4em;
+  display: block;
+  border-radius: .9em;
+  border: 2px solid rgba(92, 95, 97, 0.452);
+  transition: border-color 0.3s ease, background-color 0.3s ease;
+}
 
 .icon {
   position: absolute;
